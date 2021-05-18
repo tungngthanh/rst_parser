@@ -22,7 +22,7 @@ we need to create the data with dummy edu_break and doc_structure. Refer to `cre
 * For other parsing models:
 Refer to `create_sample_dummy_format_data.py` and `dummy_format_data/sample_full_data_format`
   
-##Citation
+## Citation
 Please cite our paper if you found the resources in this repository useful.
 
     @inproceedings{nguyen-etal-2021-rst-scratch,

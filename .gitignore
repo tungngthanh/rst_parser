@@ -1,0 +1,7 @@
+.idea
+__pycache__
+processed_data
+saved_model
+dummy_format_data/pred*
+dummy_format_data/sample_pred*
+data

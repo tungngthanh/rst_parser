@@ -31,7 +31,9 @@ Please cite our paper if you found the resources in this repository useful.
       Nguyen, Xuan-Phi  and
       Joty, Shafiq  and
       Li, Xiaoli",
-    booktitle = "Proceedings of the 2021 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    booktitle = "Proceedings of the 2021 Conference of the North {A}merican Chapter 
+    of the Association for Computational Linguistics: Human Language Technologies, 
+    Volume 1 (Long and Short Papers)",
     month = jun,
     year = "2021",
     address = "Online",
